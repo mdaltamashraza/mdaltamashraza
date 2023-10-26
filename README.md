@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaltamashraza&label=Profile%20views&color=0e75b6&style=flat" alt="mdaltamashraza" /> </p>
 
-<p align="left"><i> I'm a 3rd year Computer Science Engineering Undergraduate from Poornima Institute of Engineering and Technology, Jaipur. I'm a Tech Enthusiast, Full Stack Web Developer(MERN) with having interest in Android Development. I have also a great understanding of Data Structures and Algorithms. I love to explore and learn about new technologies </i> </p>
+<p align="left"><i> I'm a Final year Computer Science Engineering Undergraduate from Poornima Institute of Engineering and Technology, Jaipur. I'm a Tech Enthusiast, Full Stack Web Developer(MERN) with having interest in Android Development. I have also a great understanding of Data Structures and Algorithms. I love to explore and learn about new technologies </i> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
