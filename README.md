@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C++, MERN, DSA**
 
-- 📫 Reach me **appsgyanyt@gmail.com**
+- 📫 Reach me **connect.altamash@gmail.com**
 
 - ⚡ Fun fact: **I have a great Sense of Humour**
 
